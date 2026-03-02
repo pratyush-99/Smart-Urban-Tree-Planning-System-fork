@@ -2,8 +2,8 @@
 Project info
 
 Project Name: Smart Urban Tree Planning System (Green Path Project)
-Event: PRAGATI 2026 — Sustainable Environment
-Team: Velocity Vertex
+Event:NextgenHack 2026 — Sustainable Environment
+Team: CodeStorm
 Institute: Narula Institute of Technology (MAKAUT)
 
 This project proposes an AI-driven solution to reduce the Urban Heat Island (UHI) effect by identifying optimal locations for tree plantation using satellite imagery, image processing, and heat mapping techniques.
@@ -118,5 +118,6 @@ Samapti Kundu
 Pratyush Kumar
 
 Presentation
+
 
 Project presentation is included in this repository.
